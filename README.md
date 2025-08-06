@@ -5,7 +5,7 @@ An interactive web-based platform designed to teach students about cryptography 
 
 ## Features
 
-### 1. Educational Modules
+### 1. Educational Modules 
 - **Aim**: Clear introduction to shift cipher cryptanalysis
 - **Theory**: Comprehensive explanation of shift cipher mechanics
 - **Objectives**: Structured learning goals and outcomes
